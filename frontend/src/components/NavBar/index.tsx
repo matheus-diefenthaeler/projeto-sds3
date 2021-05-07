@@ -9,7 +9,7 @@ const NavBar = () => {
          <Link to="/">
              <img src={ImgDsDark} alt="DevSuperior" width="120" />
          </Link>
-    
+
         </nav>
       </div>
     </div>
